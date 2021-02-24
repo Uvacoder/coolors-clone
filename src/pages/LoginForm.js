@@ -104,7 +104,7 @@ function LoginForm() {
         </div>
 
         <Link
-          href="/generate"
+          to="/generate"
           className="btn btn-success btn-primary btn-block text-capitalize"
         >
           Start Generating Now!
